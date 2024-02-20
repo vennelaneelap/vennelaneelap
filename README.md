@@ -1,5 +1,5 @@
 
-<h1> 👋 Hi, I’m Vennela Neelap! </h1>
+<h1> Hi, I’m Vennela Neelap! 👋</h1>
 
 - 🌱 I’m currently majoring in Computer Science at the University of South Florida.
 - 👀 I’m interested in Web Development and Artificial Intelligence.
