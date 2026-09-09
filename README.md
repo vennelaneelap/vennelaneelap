@@ -4,7 +4,7 @@ Software Engineer — Full-Stack & Backend (C#/.NET, React, AWS) — building pr
 
 Currently: Associate Software Engineer @ Dr. Paul Fisher & Associates · Previously: Software Engineering R&D Intern @ Honeywell
 
-📫 neelapvennela@gmail.com  |  LinkedIn
+📫 neelapvennela@gmail.com  |  [LinkedIn](https://www.linkedin.com/in/vennela-neelap/)
 
 🔧 Core Stack
 
