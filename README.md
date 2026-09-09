@@ -2,7 +2,9 @@ Vennela Neelap
 
 Software Engineer — Full-Stack & Backend (C#/.NET, React, AWS) — building production systems and applied AI projects.
 
-Currently: Associate Software Engineer @ Dr. Paul Fisher & Associates · Previously: Software Engineering R&D Intern @ Honeywell
+Currently: Associate Software Engineer @ Dr. Paul Fisher & Associates
+
+Previously: Software Engineering R&D Intern @ Honeywell
 
 📫 neelapvennela@gmail.com  |  [LinkedIn](https://www.linkedin.com/in/vennela-neelap/)
 
